@@ -51,9 +51,9 @@ ol {
 
 .content {
   display: flex;
-  justify-content: center;
   align-items: flex-end;
   column-gap: 30px;
+  margin: 0 auto;
 }
 
 .content__details {
@@ -235,7 +235,7 @@ ol {
 }
 
 .button {
-  padding: 6px 73.5px;
+  padding: 5px 72.5px;
   border: 1px solid #fff;
   background-color: #1b1919;
   color: #fff;
